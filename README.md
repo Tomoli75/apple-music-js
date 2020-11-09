@@ -1,8 +1,7 @@
 ![og](https://user-images.githubusercontent.com/21055469/43682115-2b5a1682-981e-11e8-973d-fe316aa3a49b.png)
 ---
 Built by **Tanner Villarete** 
-
-Connect with me on [LinkedIn](https://linkedin.com/in/tvillarete)! I'll be graduating soon ;)
+Tom did some stuff too **:)**
 
 # How far can JavaScript take us?
 
@@ -15,7 +14,6 @@ Check out a live demo [here](http://tannerv.com/music)
 ---
 ![screen shot 2018-08-12 at 9 49 27 am](https://user-images.githubusercontent.com/21055469/44004289-0df0907e-9e15-11e8-9bcf-ec5e62bcd70a.png)
 ---
-I'm in my fourth year of college, and it's been super cool to see how much I've improved and continue to improve all aspects of programming. 
 
 ## Backend API
 The API is hosted on a Raspberry Pi, and it's kept private (but still accessible if you try) so that it doesn't get overloaded. If you're interested in building your own backend to plug into this tool, here's what my database and endpoints look like:
